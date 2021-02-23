@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/799px-Lacon-Logo.png</file>
+        <file>Images/200px-Lacon-Logo.jpg</file>
+        <file>Images/60px-Lacon-Logo.jpg</file>
+        <file>Images/10px-Lacon-Logo.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
